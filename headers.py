@@ -1,8 +1,8 @@
 #!/usr/bin/env python 
- # HKSUB is a Web Applications Security Scanner 
- # By M7-HK -  
- # First demo conducted 10-AGO-2023 Chapter Egypt 
- # https:// UMBRELLA
+ # WebPwn3r is a Web Applications Security Scanner 
+ # By Ebrahim Hegazy - twitter.com/zigoo0 
+ # First demo conducted 12Apr-2014 @OWASP Chapter Egypt 
+ # https://www.owasp.org/index.php/Cairo
  import urllib 
  import re 
  import time 
