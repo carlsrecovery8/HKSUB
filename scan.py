@@ -25,7 +25,7 @@ print ga.green+'''
         #|  More Details: http://www.sec-down.com/wordpress/?p=373   # 
         ############################################################## 
         '''+ga.end 
-  def urls_or_list(): 
+def urls_or_list(): 
         url_or_list = raw_input(" [!] Scan URL or List of URLs? [1/2]: ") 
         if url_or_list == "1": 
                   url = raw_input(" [!] Enter the URL: ") 
