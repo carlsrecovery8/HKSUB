@@ -1,4 +1,4 @@
-#!/usr/bin/env python 
+ #!/usr/bin/env python 
  # WebPwn3r is a Web Applications Security Scanner 
  # By Ebrahim Hegazy - twitter.com/zigoo0 
  # First demo conducted 12Apr-2014 @OWASP Chapter Egypt 
@@ -9,15 +9,20 @@
  from vulnz import * 
   
  print ga.green+''' 
- 
+             __          __  _     _____                 ____        
+             \ \        / / | |   |  __ \               |___ \       
+              \ \  /\  / /__| |__ | |__) |_      ___ __   __) |_ __  
+               \ \/  \/ / _ \ '_ \|  ___/\ \ /\ / / '_ \ |__ <| '__| 
+                 \  /\  /  __/ |_) | |     \ V  V /| | | |___) | |    
+                  \/  \/ \___|_.__/|_|      \_/\_/ |_| |_|____/|_|    
                                                       
          ############################################################## 
-         #| "HKSUB" Web Applications Security Scanner                 # 
-         #|  By M7-HK - @HKgato                                       # 
+         #| "WebPwn3r" Web Applications Security Scanner              # 
+         #|  By Ebrahim Hegazy - @Zigoo0                              # 
          #|  This Version Supports Remote Code/Command Execution, XSS # 
          #|  And SQL Injection.                                       # 
-         #|  Thanks @UMBRELLA, @BLACKPANTER @uva, @marko.             # 
-         #|  More Details: http://umbrella api-key. v2proxyHkM7       # 
+         #|  Thanks @lnxg33k, @dia2diab @Aelhemily, @okamalo          # 
+         #|  More Details: http://www.sec-down.com/wordpress/?p=373   # 
          ############################################################## 
          '''+ga.end 
   
